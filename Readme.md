@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [mad merdeck](https://up.htmlacademy.ru/htmlcss/32/user/1793541).
-* Наставник: `Неизвестно`.
+* Студент: [Марат Абагян](https://up.htmlacademy.ru/htmlcss/32/user/1793541).
+* Наставник: `Artem Ryzhov`.
 
 ---
 
